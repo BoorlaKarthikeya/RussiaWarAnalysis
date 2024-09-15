@@ -52,3 +52,10 @@ The data includes the following columns:
     - Track losses in tanks, APCs, missiles, and anti-aircraft warfare assets, showing which regions have experienced the greatest damage.
 - Strategic Firepower and Support Division Losses
     - Analyze losses in field artillery, MRL, special equipment, and vehicles over time.
+ 
+
+
+
+## deployment
+
+- [demo Link](https://russiawaranalysis-karthikeyaboorla.streamlit.app/)
